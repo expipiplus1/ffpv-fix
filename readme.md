@@ -1,5 +1,8 @@
 # Fixing the broken firmware on the FuriousFPV 2.4GHz video TX
 
+TLDR: Working firmware is on the
+[releases](https://github.com/expipiplus1/ffpv-fix/releases) page.
+
 ## What's wrong.
 
 The most recent version of the firmware sometimes only sends a single byte on
